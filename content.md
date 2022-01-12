@@ -6,7 +6,7 @@
 
 ![Image](https://pbs.twimg.com/media/E96pWChXIAAIr5c.jpg)
 > "Godspeed, Spiderman."
-* practice w/ makrdown
+* practice w/ markdown
 * practice w/ markdown
 * practice w/ markdown
 1. practice w/ markdown
@@ -16,5 +16,5 @@ practice w/ markdown
 ---
 `practice` w/ markdown
 ```
-practive w/ markdown
+practice w/ markdown
 ```
