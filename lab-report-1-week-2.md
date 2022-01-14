@@ -35,7 +35,6 @@ Since I have files in the server under my course account, I can do something lik
 
 To log yourself out of the servier, use:
 
-* Ctrl-D
 * Type `exit` in the terminal
 
 ![Image](screenshots/logoutSC.png)
