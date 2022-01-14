@@ -70,6 +70,7 @@ You have now `scp`(secure copied) this file onto the host.
 ![Image](screenshots/scpSC.png)
 
 As you can see, what's printed is the program running on the server, thus it is different than when we ran it on our client.
+
 ---
 ## Setting an SSH Key
 Inputting your password everytime you login to a remote server can be annoying. Thus, we can copy files on our local client and onto the server to recognize our login to remove the need of typing our password.
