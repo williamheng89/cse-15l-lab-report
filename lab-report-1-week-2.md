@@ -67,9 +67,9 @@ You have now `scp`(secure copied) this file onto the host.
 5. Use the `ls -h` command and you can see that the file has been copied onto the home directoy
 6. Use the same `javac` and `java` commands
 
-
 ![Image](screenshots/scpSC.png)
 
+As you can see, what's printed is the program running on the server, thus it is different than when we ran it on our client.
 ---
 ## Setting an SSH Key
 Inputting your password everytime you login to a remote server can be annoying. Thus, we can copy files on our local client and onto the server to recognize our login to remove the need of typing our password.
