@@ -4,7 +4,7 @@
 2. Follow the instructions to downloand and install. Make sure to choose the version for your OS
 
 After installing, you should be able to open a window that looks like so:
-![Image](installing_vscodeSC.png)
+![Image](screenshots/installing_vscodeSC.png)
 
 ---
 ## Remotely Connecting
@@ -19,7 +19,7 @@ After installing, you should be able to open a window that looks like so:
 
 After doing so, you should see a message like so:
 
-![Image](screenshots\remotelyconnectionSC.png)
+![Image](screenshots/remotelyconnectionSC.png)
 
 ---
 ## Trying Some Commands
@@ -31,13 +31,14 @@ Go ahead and try out some commands!
 
 Since I have files in the server under my course account, I can do something like this!
 
-![Image](screenshots\trying_some_commandsSC.png)
+![Image](screenshots/trying_some_commandsSC.png)
+
 To log yourself out of the servier, use:
 
 * Ctrl-D
 * Type `exit` in the terminal
 
-![Image](screenshots\logoutSC.png)
+![Image](screenshots/logoutSC.png)
 
 ---
 ## Moving Files with `scp`
@@ -57,14 +58,18 @@ class WhereAmI {
 3. Save and run the file using `javac WhereAmI.java` followed by `java WhereAmI`
 
 As we run this program locally (on our computer), we should see the name of our OS, username, home, and directory of this file.
-![Image](screenshots\WhereAmISC.png)
+
+![Image](screenshots/WhereAmISC.png)
+
 4. Now from the directory where this file is made, enter the command `scp WhereAmI.java cs15lwi22zz@ieng6.ucsd.edu:~/` (remember to change the `zz`) and login
 
 You have not `scp`(secure copied) this file onto the host.
 
 5. Use the ls -h command and you can see that the file has been copied onto the home directoy
 6. Use the same `javac` and `java` commands
-![Image](screenshots\scpSC.png)
+
+
+![Image](screenshots/scpSC.png)
 
 ---
 ## Setting an SSH Key
@@ -75,14 +80,18 @@ Inputting your password everytime you login to a remote server can be annoying. 
 
 You should now see this:
 
-![Image](screenshots\keygenSC.png)
+![Image](screenshots/keygenSC.png)
+
 4. If you are on Windows, follow these [ssh-add](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement#user-key-generation) steps
+
+
 5. Connect with the remote host and use the command `mkdir .ssh` then `exit`
-![Image](screenshots\keygen_mkdirSC.png)
+![Image](screenshots/keygen_mkdirSC.png)
+
 6. On your client use the command `scp /Users/willi/.ssh/id_rsa.pub cs15lwi22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys` (replace `willi` with your username and `zz` with your account).
 7. Enter your password and now you can connect w/o inputting your password!
 
-![image](screenshots\successful_keygenSC.png)
+![image](screenshots/successful_keygenSC.png)
 
 ---
 ## Optimizing Remote Running
@@ -90,7 +99,11 @@ Setting an SSH key is one prime example of making remote running more effecient 
 
 1. If we just exited our remote host, we can use the `up arrow key` to look for previous commands. This is so that we don't have to keep typing out that command or even copy/paste
 2. We can even run commands at the end of an `ssh` by wrapping it in `quotations`.
-![Image](screenshots\OptimizingSC.png)
+
+
+![Image](screenshots/OptimizingSC.png)
+
+
 3. With this in mind, we can also use `;` to run multiple commands
 
-![Image](screenshots\multiple_commandsSC.png)
+![Image](screenshots/multiple_commandsSC.png)
