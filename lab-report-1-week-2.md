@@ -62,7 +62,7 @@ As we run this program locally (on our computer), we should see the name of our 
 
 4. Now from the directory where this file is made, enter the command `scp WhereAmI.java cs15lwi22zz@ieng6.ucsd.edu:~/` (remember to change the `zz`) and login
 
-You have not `scp`(secure copied) this file onto the host.
+You have now `scp`(secure copied) this file onto the host.
 
 5. Use the ls -h command and you can see that the file has been copied onto the home directoy
 6. Use the same `javac` and `java` commands
