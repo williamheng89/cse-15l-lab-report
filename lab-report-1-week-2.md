@@ -4,7 +4,7 @@
 2. Follow the instructions to downloand and install. Make sure to choose the version for your OS
 
 After installing, you should be able to open a window that looks like so:
-![Image](screenshots\installing_vscodeSC.png)
+![Image](installing_vscodeSC.png)
 
 ---
 ## Remotely Connecting
