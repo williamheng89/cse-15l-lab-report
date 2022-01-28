@@ -113,6 +113,7 @@ Setting an SSH key is one prime example of making remote running more effecient 
 ![Image](screenshots/KeyStrokes.png)
 
 > Up-Arrow + Enter = 2 --> ssh connect to remote server
+
 > Select + Ctrl+C + Ctrl+V + Enter = 6 --> Copy, Paste, and Run command: 
 
 
