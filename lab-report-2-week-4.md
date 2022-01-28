@@ -3,6 +3,7 @@
 
 > Problem #1
 
+![Image](screenshots_LR2\code_change_diff_1.png)
 
 [Test file - failure inducing output](https://github.com/williamheng89/markdown-parse/blob/main/lab3_bugged1.md)
 
@@ -14,6 +15,7 @@ The **bug** was that my program grabbed and added any content between parenthesi
 
 > Problem #2
 
+![Image](screenshots_LR2\code_change_diff_2.png)
 
 [Test file - failure inducing output](https://github.com/williamheng89/markdown-parse/blob/main/lab3_bug2.md)
 
@@ -25,6 +27,7 @@ The **bug** was that my program was trying to grab and add content between nonex
 
 > Problem #3
 
+![Image](screenshots_LR2\code_change_diff_3.png)
 
 [Test file - failure inducing output](https://github.com/williamheng89/markdown-parse/blob/main/lab3_bug3.md)
 
