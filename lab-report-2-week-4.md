@@ -3,7 +3,7 @@
 
 > Problem #1
 
-![Image](code_change_diff_1.png)
+![Image](screenshots_LR2/code_change_diff_1.png)
 
 [Test file - failure inducing output](https://github.com/williamheng89/markdown-parse/blob/main/lab3_bugged1.md)
 
