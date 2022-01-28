@@ -106,10 +106,10 @@ Setting an SSH key is one prime example of making remote running more effecient 
 
 3. With this in mind, we can also use `;` to run multiple commands
 
-![Image](multiple_commandsSC.png)
+![Image](screenshots/multiple_commandsSC.png)
 
 4. **Check this out!** After editing and saving the WhereAmI.java file, we are able to copy, compile, and execute our updated program onto the remote server with just 6 keystrokes!
 
-![Image](screenshots\PleasantKeyStrokes.png)
+![Image](PleasantKeyStrokes.png)
 
 > Select + Ctrl+C + Ctrl+V +Enter = 6
