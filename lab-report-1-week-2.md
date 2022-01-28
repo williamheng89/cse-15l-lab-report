@@ -6,6 +6,8 @@
 After installing, you should be able to open a window that looks like so:
 ![Image](screenshots/installing_vscodeSC.png)
 
+
+redit
 ---
 ## Remotely Connecting
 1. Open Settings > Apps > Apps & Features > Optional Features and scan if OpenSSH is already installed. If not, [install OpenSH](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse)
