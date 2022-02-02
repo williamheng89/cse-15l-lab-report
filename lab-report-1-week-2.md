@@ -123,13 +123,11 @@ Setting an SSH key is one prime example of making remote running more effecient 
 ![Image](screenshots/multiple_commandsSC.png)
 
 
-* **Check this out!** After editing and saving the WhereAmI.java file, we are able to copy, compile, and execute our updated program onto the remote server with just 8 keystrokes!
+* **Check this out!** After editing and saving the WhereAmI.java file, we are able to copy, compile, and execute our updated program onto the remote server with just 58 keystrokes!
 
 ![Image](screenshots/CountingKeyStrokesfix.png)
 
-> Up-Arrow + Enter = 2 --> ssh connect to remote server
+> scp WhereAmI.java cs15lwi22aaq@ieng6.ucsd.edu:~/ = 11 
+> (Copy and Paste scp command and change the course-specific account, run" 
 
-> Select + Ctrl+C + Ctrl+V + Enter = 6 --> Copy, Paste, and Run command: 
-
-
-> `cp WhereAmI.java OtherMain.java; javac OtherMain.java; java WhereAmI`
+> ssh cs15lwi22aaq@ieng6.ucsd.edu "javac WhereAmI.java; java WhereAmI" = 47 (Copy and Paste the ssh command, change the course-specific account, add ""javac WhereAmI.java; java WhereAmI", run)
