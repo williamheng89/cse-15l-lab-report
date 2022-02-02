@@ -125,7 +125,7 @@ Setting an SSH key is one prime example of making remote running more effecient 
 
 * **Check this out!** After editing and saving the WhereAmI.java file, we are able to copy, compile, and execute our updated program onto the remote server with just 8 keystrokes!
 
-![Image](screenshots/KeyStrokes.png)
+![Image](screenshots/CountingKeyStrokesfix.png)
 
 > Up-Arrow + Enter = 2 --> ssh connect to remote server
 
