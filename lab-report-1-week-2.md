@@ -130,7 +130,7 @@ Setting an SSH key is one prime example of making remote running more effecient 
 `scp WhereAmI.java cs15lwi22aaq@ieng6.ucsd.edu:~/ = 3
 > (Up-arrow + Up-arrow + Enter)  
 
-`ssh cs15lwi22aaq@ieng6.ucsd.edu "javac WhereAmI.java; java WhereAmI" = 3
+`ssh cs15lwi22aaq@ieng6.ucsd.edu "javac WhereAmI.java; java WhereAmI" = 3`
 > (Up-arrow + Up-arrow + Enter) 
 
-`It is possible to do this with 6 keystrokes only if these commands were ran prior (in order to use "up-arrow" shortcut)
+`It is possible to do this with 6 keystrokes only if these commands were ran prior (in order to use "up-arrow" shortcut)`
