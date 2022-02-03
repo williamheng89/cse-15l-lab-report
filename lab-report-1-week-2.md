@@ -127,7 +127,7 @@ Setting an SSH key is one prime example of making remote running more effecient 
 
 ![Image](screenshots/CountingKeyStrokesfix.png)
 
-`scp WhereAmI.java cs15lwi22aaq@ieng6.ucsd.edu:~/ = 3
+`scp WhereAmI.java cs15lwi22aaq@ieng6.ucsd.edu:~/ = 3`
 > (Up-arrow + Up-arrow + Enter)  
 
 `ssh cs15lwi22aaq@ieng6.ucsd.edu "javac WhereAmI.java; java WhereAmI" = 3`
