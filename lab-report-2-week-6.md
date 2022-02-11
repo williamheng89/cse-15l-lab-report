@@ -1,4 +1,7 @@
 # Week 6 Lab Report
+
+[Index](https://williamheng89.github.io/cse-15l-lab-report/index)
+
 ## Streamline SSH Configuration
 **Trying to remember the command `ssh cs15lwi22zzz@ieng6.ucsd.edu` everytime we connect to our remote server is tedious and unecessary**
 
