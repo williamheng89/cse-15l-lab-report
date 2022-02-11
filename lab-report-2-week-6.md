@@ -6,10 +6,10 @@ Instead, we can create an entry to tell SSH what username to use when logging in
 
 1. Open the .ssh folder in VS Code. This should be found with the directories: 
 
-![Image](screenshots_LR3\configDirectory.png
+![Image](screenshots_LR3\configDirectory.png)
 
 
-![Image](screenshots_LR3\openingSSHFolder.png
+![Image](screenshots_LR3\openingSSHFolder.png)
 
 2. Now create another file and entire the following:
 
@@ -20,7 +20,7 @@ Host ieng6
 ```
 After entering your username, it should look something like this:
 
-![Image](screenshots_LR3\myConfigFile.png
+![Image](screenshots_LR3\myConfigFile.png)
 
 We're now done!
 
@@ -37,4 +37,4 @@ Upon creating a new terminal, we can connect to ieng6 with the command:
 2. I connected to ieng6 with our shortcut
 
 
-![Image](screenshots_LR3\scpFileStreamLine.png
+![Image](screenshots_LR3\scpFileStreamLine.png)
