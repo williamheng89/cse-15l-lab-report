@@ -1,6 +1,6 @@
 # Week 6 Lab Report
 ## Streamline SSH Configuration
-> Trying to remember the command `ssh cs15lwi22zzz@ieng6.ucsd.edu` everytime we connect to our remote server is tedious and unecessary
+**Trying to remember the command `ssh cs15lwi22zzz@ieng6.ucsd.edu` everytime we connect to our remote server is tedious and unecessary**
 
 Instead, we can create an entry to tell SSH what username to use when logging into specific servers!
 
