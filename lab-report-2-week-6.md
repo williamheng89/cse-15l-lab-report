@@ -9,7 +9,7 @@ Instead, we can create an entry to tell SSH what username to use when logging in
 
 1. Open the .ssh folder in VS Code. This should be found with the directories: 
 
---
+![Image](screenshots_LR3\configDirectory.png)
 
 --
 2. Now create another file and entire the following:
