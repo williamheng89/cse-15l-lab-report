@@ -11,18 +11,17 @@ Adding Tests for snippets 1-3
 
 Actual Output:
 
- 
-
+ ![Image](screenshots_LR4/myFailedTests.png)
 
 [Link to Reviewed Code Repository](https://github.com/leo3friedman/markdown-parse)
 
 Adding Tests for snippets 1-3
 
-
+![Image](screenshots_LR4/fixTester.png)
 
 Actual Output:
 
-
+![Image](screenshots_LR4/fixFailedTests/png)
 
 ## Reflection: Potential Solutions?
 
