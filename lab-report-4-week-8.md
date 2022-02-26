@@ -21,7 +21,7 @@ Adding Tests for snippets 1-3
 
 Actual Output:
 
-![Image](screenshots_LR4/fixFailedTests/png)
+![Image](screenshots_LR4/fixFailedTests.png)
 
 ## Reflection: Potential Solutions?
 
