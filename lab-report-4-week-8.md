@@ -7,7 +7,7 @@ To make things easier, I copied the reviewed code into my repository and created
 
 Adding Tests for snippets 1-3
 
-
+![Image](screenshots_LR4/myTester.png)
 
 Actual Output:
 
