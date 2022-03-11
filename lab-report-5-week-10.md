@@ -7,7 +7,7 @@
 
 ![Image](screenshots_LR5/scriptshFile.png)
 
-2. Now after calling `bash script.sh`, it prints out the file name before the getLinks output. We can now use the command `bash script.sh > results.txt` . What this does is run our bash command, it redirects its output into a file called "results.txt" rather than the terminal (it also deletes and recreates ths target file evertime the command is run.
+2. Now after calling `bash script.sh`, it prints out the file name before the getLinks output. We can now use the command `bash script.sh > results.txt` . What this does is run our bash command, and redirects its output into a file called "results.txt" rather than the terminal (it also deletes and recreates ths target file evertime the command is run.
 
 3. Now using a Visual Studio Extension called Remote Explorer or the command `cat results.txt` we can see our output stored in a text file.
 
