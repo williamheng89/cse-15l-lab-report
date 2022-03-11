@@ -15,7 +15,7 @@
 
 4. We then do the same with our MarkdownParse repo: copy over the `script.sh` file and run `bash script.sh > results.txt` . After doing so, we now have 2 text files that contain an understandable list of getLinks outputs. 
 
-5. We now can use thr program diff to show the differences between the outputs of our programs: `diff markdown-parse/results.txt WHmarkdown-parse/results.txt` . We should see something like this. To undersstand the output, the 212 of the results.txt in the markdown-parse directory, the line contains [url], however, the 212 of the WHmarkdown-parse directory contained []. 
+5. We now can use the program `diff` to show the differences between the outputs of our programs: `diff markdown-parse/results.txt WHmarkdown-parse/results.txt` . We should see something like this. To undersstand the output, the 212 of the results.txt in the markdown-parse directory, the line contains [url], however, the 212 of the WHmarkdown-parse directory contained []. 
 
 ![Image](screenshots_LR5/diffOutputs.png)
 
