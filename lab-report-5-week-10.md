@@ -65,7 +65,7 @@ After running this file's contents through the markdown demo, it is seen that no
 
 ![Image](screenshots_LR5/2correctOutput.png)
 
-As shown, no links were grabbed and thus the output should be an empty list. However, the actual output was:
+However, the actual output was:
 
 ```
 /foo`
